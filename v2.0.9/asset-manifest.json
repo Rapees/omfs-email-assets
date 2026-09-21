@@ -1,0 +1,97 @@
+{
+  "version": "2.0.9",
+  "assets": [
+    {
+      "role": "hero",
+      "email": "new-submission",
+      "filename": "hero-new-submission-763ca8e321.jpg",
+      "dimensions": [
+        1480,
+        420
+      ],
+      "bytes": 48740,
+      "sha256": "763ca8e32121b8ec65e314937befeed29d9ebcd22a0785e507dbc1c44cbe4399",
+      "jpeg_quality": 88
+    },
+    {
+      "role": "hero",
+      "email": "weekly-reminder",
+      "filename": "hero-weekly-reminder-9748255668.jpg",
+      "dimensions": [
+        1480,
+        420
+      ],
+      "bytes": 27603,
+      "sha256": "9748255668e9531630f48f1cb3617aa1169dc9950c4fc2439e595f8455b12807",
+      "jpeg_quality": 88
+    },
+    {
+      "role": "hero",
+      "email": "student-otp",
+      "filename": "hero-student-otp-2ba3dc09d3.jpg",
+      "dimensions": [
+        1480,
+        420
+      ],
+      "bytes": 26447,
+      "sha256": "2ba3dc09d3c54e627d7bd47d8db8d6db4a2c96698164a79677e710615fcc5e0f",
+      "jpeg_quality": 88
+    },
+    {
+      "role": "hero",
+      "email": "instructor-otp",
+      "filename": "hero-instructor-otp-3cdbbc0987.jpg",
+      "dimensions": [
+        1480,
+        420
+      ],
+      "bytes": 26449,
+      "sha256": "3cdbbc09875dad49b6b707b5c7452eaefb672fabacce27b35fc8e39278d2b470",
+      "jpeg_quality": 88
+    },
+    {
+      "role": "logo",
+      "email": "new-submission",
+      "filename": "logo-new-submission-c0ade2ba8a.png",
+      "dimensions": [
+        118,
+        118
+      ],
+      "bytes": 1754,
+      "sha256": "c0ade2ba8addcdbdb88a0052ff1be359984dfc7b31c54163b442ec0b4a0b40ec"
+    },
+    {
+      "role": "logo",
+      "email": "weekly-reminder",
+      "filename": "logo-weekly-reminder-371f5f2746.png",
+      "dimensions": [
+        118,
+        118
+      ],
+      "bytes": 1098,
+      "sha256": "371f5f2746f89c97fc3f08e8df8b479b1cf1c3e898bffb745d6c79a1904a9130"
+    },
+    {
+      "role": "logo",
+      "email": "student-otp",
+      "filename": "logo-student-otp-7d175f5b9c.png",
+      "dimensions": [
+        118,
+        118
+      ],
+      "bytes": 851,
+      "sha256": "7d175f5b9c13441c218cdc57dfbc3e409f618447bab08b27329c9495304dfb76"
+    },
+    {
+      "role": "logo",
+      "email": "instructor-otp",
+      "filename": "logo-instructor-otp-e99f11213b.png",
+      "dimensions": [
+        118,
+        118
+      ],
+      "bytes": 1096,
+      "sha256": "e99f11213bf5427e173404cf484bb7a26f5d5d724d8a39bac7ff4730e4542877"
+    }
+  ]
+}
